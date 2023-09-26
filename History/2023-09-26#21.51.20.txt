@@ -18,8 +18,8 @@ Furthermore, for booking the appointment, may I have your full name, address, an
 I apologize for any inconvenience caused. Let's get your router up and running smoothly again!
 Customer: my name is Hardik Varma and I live in f26
 aisupport: Thank you for providing your name, Hardik Varma. To proceed with scheduling an appointment, could you please provide me with your complete address, including the house number, street name, and any additional information that may be necessary for our technician to locate your residence? This will ensure a smooth process for your appointment booking.
-Customer: f26 professor Agra
-aisupport: Thank you for providing your address as F26 Professor Agra. I have scheduled an appointment for you with one of our trained professionals to look into the issue with your router. The appointment is scheduled for tomorrow between 9 AM and 5 PM.
+Customer: XXXXXXXXXX
+aisupport: Thank you for providing your address as XXXXXXXXX. I have scheduled an appointment for you with one of our trained professionals to look into the issue with your router. The appointment is scheduled for tomorrow between 9 AM and 5 PM.
 
 Please note down the unique ID for your appointment: 664575933. This will help our technician identify your case efficiently. Our professional will arrive at your location and address the problem with your router.
 

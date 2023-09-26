@@ -27,11 +27,11 @@ User Testing and Feedback: Conducts user testing sessions to gather feedback and
 # Getting Started
 To run the AI-Powered Customer Service Chatbot, follow the instructions in the documentation.
 download thes extention using pip install 
-import openai \n
-import pyttsx3 \n
-import speech_recognition as sr \n
-import datetime \n
-import random \n
+import openai <br>
+import pyttsx3 <br>
+import speech_recognition as sr <br>
+import datetime <br>
+import random <br>
 
 # Contributions
 We welcome contributions from the community! If you'd like to contribute to this project, please follow our contribution guidelines.

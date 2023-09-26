@@ -34,8 +34,7 @@ import datetime <br>
 import random <br>
 
 # Running file in Python/aisupport,py 
-video link:- 
-<a href="https://drive.google.com/file/d/1wNejLu9wTVjay1rBJhuyNkoIQ3aHlxvw/view?usp=sharing" target="_blank">Video link</a>
+video link:-   https://drive.google.com/file/d/1wNejLu9wTVjay1rBJhuyNkoIQ3aHlxvw/view?usp=sharing
 
 
 # Contributions

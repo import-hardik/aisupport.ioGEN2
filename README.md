@@ -36,7 +36,8 @@ import random <br>
 # Running file in Python/aisupport,py 
 video link:-   https://drive.google.com/file/d/1UMm5gGXbqeoVNmq9wBeezWj63txoOzjY/view?usp=sharings
 
-# Download
+# Download executable
+contact admin for password 
 https://drive.google.com/file/d/1xRuM_ezwNp6cfTrXsj0z17k3o8raxWJJ/view?usp=sharing
 
 # Contributions

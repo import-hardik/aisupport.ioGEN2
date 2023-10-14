@@ -40,6 +40,9 @@ video link:-   https://drive.google.com/file/d/1UMm5gGXbqeoVNmq9wBeezWj63txoOzjY
 contact admin for password 
 https://drive.google.com/file/d/1cWv4BpQYLmD-OqzaJfNgvAmRAWMPABQd/view?usp=sharing
 
+#ProjectZIP
+https://drive.google.com/file/d/1cWv4BpQYLmD-OqzaJfNgvAmRAWMPABQd/view?usp=sharing
+
 # Contributions
 We welcome contributions from the community! If you'd like to contribute to this project, please follow our contribution guidelines.
 
